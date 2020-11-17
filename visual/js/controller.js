@@ -1,7 +1,6 @@
 /**
  * The visualization controller will works as a state machine.
  * See files under the `doc` folder for transition descriptions.
- * See https://github.com/jakesgordon/javascript-state-machine
  * for the document of the StateMachine module.
  */
 var Controller = StateMachine.create({

@@ -36,9 +36,7 @@
     "shelljs": "^0.3.0",
     "should": "4.3.x"
   },
-  "scripts": {
-    "test": "gulp test"
-  },
+  
   "repository": {
     "type": "git",
     "url": "git://github.com/qiao/PathFinding.js.git"

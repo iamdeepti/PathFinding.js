@@ -14,23 +14,23 @@ var View = {
             'stroke-opacity': 0.2,
         },
         start: {
-            fill: '#0d0',
+            fill: '#0d0', // green
             'stroke-opacity': 0.2,
         },
         end: {
-            fill: '#e40',
+            fill: '#e40', //red
             'stroke-opacity': 0.2,
         },
         opened: {
-            fill: '#98fb98',
+            fill: '#98fb98', // light-green
             'stroke-opacity': 0.2,
         },
         closed: {
-            fill: '#afeeee',
+            fill: '#afeeee', //blue
             'stroke-opacity': 0.2,
         },
         failed: {
-            fill: '#ff8888',
+            fill: '#ff8888', 
             'stroke-opacity': 0.2,
         },
         tested: {
