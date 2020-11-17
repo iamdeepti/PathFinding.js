@@ -333,6 +333,7 @@ $.extend(Controller, {
                 });
             },
         };
+        
 
         this.operations = [];
     },
